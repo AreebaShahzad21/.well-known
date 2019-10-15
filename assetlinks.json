@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.areeba.cv.base",
+    "sha256_cert_fingerprints":
+    ["4C:21:67:15:FD:8C:BA:53:C2:98:C9:A1:E4:A0:14:2B:AB:3B:51:18:CE:7E:F8:93:70:9E:8F:7A:56:AE:10:E5"]
+  }
+}]
